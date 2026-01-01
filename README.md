@@ -37,4 +37,4 @@ Upon completion of this lab, the learner gains practical experience in:
 - `Lab1-Network-Fundamentals.pkt`
 
 ## Author
-CCNA Student | Network Fundamentals
+Kumail Ahmed | Network Fundamentals
